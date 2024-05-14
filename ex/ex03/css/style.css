@@ -1,0 +1,26 @@
+body{
+    font: 30px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:#84e294;
+  }
+  
+  
+  /* Header **/
+  header{
+    background:#1579b8;
+    color:#06eb6d;
+    padding: top 100px;
+    min-height:70px;
+    border-bottom:#8d2306 3px solid;
+  }
+  
+  footer{
+    padding:20px;
+    margin-top:20px;
+    color:#15af48;
+    background-color:#a8d407;
+    text-align: center;
+  }
+  
+  
